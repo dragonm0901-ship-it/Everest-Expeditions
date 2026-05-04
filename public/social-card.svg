@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" fill="none">
+  <rect width="1200" height="630" fill="#08111f"/>
+  <circle cx="949" cy="120" r="206" fill="#2F7DF4" fill-opacity=".22"/>
+  <circle cx="219" cy="532" r="194" fill="#62B5FF" fill-opacity=".18"/>
+  <path d="M150 450 350 180l92 132 162-216L879 450H716l-59-84-108 134H150Z" fill="#62B5FF"/>
+  <text x="150" y="520" fill="white" font-family="Arial, sans-serif" font-size="58" font-weight="700">Everest Expeditions</text>
+  <text x="150" y="575" fill="#D0DAE8" font-family="Arial, sans-serif" font-size="28">Planner-led journeys with trusted stays and live travel support.</text>
+</svg>
